@@ -1,3 +1,4 @@
+---
 - name: Ansible Playbook to Install and Setup Apache on Ubuntu
   hosts: all
   become: yes
